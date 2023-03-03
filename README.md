@@ -3,7 +3,7 @@
 you need python installed on your computer 
 once your python are installed on your computer
 run:
-pip install django
+python3 -m pip install django
 git clone https://github.com/github-world192/mysite
 cd mysite
 python3 manage.py runserver
