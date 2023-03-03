@@ -9,7 +9,7 @@ python3 -m pip install django
 cd mysite
 python3 manage.py runserver
 ```
-| Key             | Description                  | Default Value |
+| macos             | linux               | windows |
 | --------------- | ---------------------------- | ------------- |
 | `border_radius` | Same as `radius`             | `4`           |
 | `show_rank`     | Display/Hide Rank: `Boolean` | `true`        |
