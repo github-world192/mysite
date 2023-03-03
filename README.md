@@ -1,5 +1,5 @@
-## this is a web site generate by django 
-# to run this 
+# this is a web site generate by django 
+## to run this 
 - you need python installed on your computer 
 - once your python are installed on your computer
 run:
