@@ -4,9 +4,8 @@
 - once your python are installed on your computer
 
 ```md
-run:
-python3 -m pip install django
 git clone https://github.com/github-world192/mysite
+python3 -m pip install django
 cd mysite
 python3 manage.py runserver
 ```
